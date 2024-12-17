@@ -1,0 +1,20 @@
+[07-Sep-2019 02:42:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/tamu12/public_html/admin/page/tamu/laporan.php on line 61
+[07-Sep-2019 02:42:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/tamu12/public_html/admin/page/tamu/laporan.php on line 94
+[07-Sep-2019 02:44:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/tamu12/public_html/admin/page/tamu/laporan.php on line 61
+[07-Sep-2019 02:44:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/tamu12/public_html/admin/page/tamu/laporan.php on line 94
+[07-Sep-2019 03:04:52 UTC] PHP Fatal error:  Uncaught <span style="color: #AA0000; font-weight: bold;">
+ERREUR n°6</span><br>
+Fichier : /home/tamu12/public_html/admin/assets/html2pdf/html2pdf.class.php<br>
+Ligne : 1324<br>
+<br>
+Impossible de charger l'image <b>../../upload/1567778283.jpg</b>
+
+  thrown in /home/tamu12/public_html/admin/assets/html2pdf/html2pdf.class.php on line 1324
+[07-Sep-2019 03:05:17 UTC] PHP Fatal error:  Uncaught <span style="color: #AA0000; font-weight: bold;">
+ERREUR n°6</span><br>
+Fichier : /home/tamu12/public_html/admin/assets/html2pdf/html2pdf.class.php<br>
+Ligne : 1324<br>
+<br>
+Impossible de charger l'image <b>../../upload/1567820757.jpg</b>
+
+  thrown in /home/tamu12/public_html/admin/assets/html2pdf/html2pdf.class.php on line 1324
